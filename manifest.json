@@ -1,0 +1,13 @@
+{
+  "name": "Shaheen Empire Sovereign Core",
+  "short_name": "ShaheenEmpire",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#00ffcc",
+  "developer": {
+    "name": "Abdul Basit Mushtaq",
+    "role": "Founder & CEO",
+    "entity": "Shaheen Empire LLC"
+  }
+}
